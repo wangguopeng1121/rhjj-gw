@@ -9,7 +9,7 @@ class AAA extends Component {
             <div className="sss">
 
                 wshoshi niasda's asdasd as
-
+                wwwdwasss 
             </div>
         );
     }
