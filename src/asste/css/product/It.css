@@ -1,0 +1,56 @@
+.It-div{
+
+    width: 1280px;
+    height: 1950px;
+    }
+    .It-div-backg{
+    width: 100%;
+    height: 520px;
+    
+    }
+    .It-div-ul{
+        width: 100%;
+        height: 1300px;
+        background-color: rgb(248, 248, 248);
+    
+    }
+    .It-div-ul-li{
+    width:370px ;
+    height: 400px;
+    float: left;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1px solid blanchedalmond;
+    background-color: rgb(248, 248, 248);
+    }
+    .It-div-ul-li-img{
+       width: 300px;
+       height: 200px ;
+        margin: auto;
+    }
+    
+    .It-div-ul-li-text{
+        width: 100%;
+        height: 100px;
+        text-align:center;
+        padding: 10px 10px 0px 15px;
+    }
+    .It-div-ul-li-text p{
+        font-size: 15px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+    }
+    
+    .It-div-ul-li-text a{
+        font-size: 18px;
+        color: rgb(221, 21, 21);
+    }
+    
+    .It-div-fy{
+        width: 900px;
+        height: 50px;
+        margin-left: 70px;
+    }

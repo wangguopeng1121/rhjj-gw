@@ -1,0 +1,105 @@
+.Characters-div{
+    width: 1280PX;
+    height: 1810PX;
+    
+    }
+    .Characters-div-img{
+        width: 1280px;
+        height: 560px;
+    }
+    .Characters-div-headline{
+        width: 1280px;
+        height: 700px;
+        float: left;
+    }
+    .Characters-div-headline-one{
+        width: 600px;
+        height:700px;
+        float: left;
+        margin: 0px 0px 0px 20px;
+        border:  1px solid beige;
+        background-color: aliceblue;
+    }
+    .Characters-div-headline-one-img{
+        width: 600px;
+        height: 500px;
+    }
+    .Characters-div-headline-one-img img:hover{
+        transform: scale(0.98);
+    }
+    
+    .Characters-div-headline-one-text{
+        text-align: center;
+    }
+    .Characters-div-headline-one-text-top{
+        height: 80px;
+        margin: 20px 0px 0px 0px;
+    
+    }
+    .Characters-div-headline-one-text-top a{
+       font-size: 20px;
+       color:  rgb(105, 101, 104);
+    }
+    .Characters-div-headline-one-time-padding{
+        padding-left: 400px;
+    }
+    .Characters-div-headline-one-time-span{
+        padding-left: 30px;
+        font-size: 20px;
+    }
+    
+    .Characters-div-search{
+        width: 1280px;
+        height: 90px;
+        float: left;
+    }
+    .Characters-div-search-span{
+        float: right;
+        padding: 20px 
+    }
+    .Characters-div-CharactersList{
+        width: 1280px;
+        height: 1000px;
+        float: left;
+        background-color: aliceblue;
+       
+    }
+    .Characters-div-CharactersList-list{
+        width: 1280px;
+        height: 300px;
+        float: left;
+        margin: 20px 0px 0px 0px;
+        border: 1px solid bisque;
+        
+    }
+    .Characters-div-CharactersList-list-time-span{
+        float: right;
+        padding: 50px ;
+        font-size: 20px;
+    }
+    .Characters-div-CharactersList-list-headline-span{
+        padding: 20px ;
+        font-size: 20px;
+        color:  rgb(105, 101, 104);
+    
+    }
+    .Characters-div-CharactersList-list-img{ 
+        width: 200px;
+        height: 200px;
+        float: left;
+        margin: 50px 0px 0px 20px;
+    }
+    .Characters-div-CharactersList-list-headline{
+        width: 800px;
+        height: 200px;
+        float: left;
+        margin: 50px 0px 0px 20px;
+        color:  rgb(105, 101, 104);
+    
+    }
+    .Characters-div-CharactersList-fy{
+        width: 1280px;
+        height: 50px;
+        margin: auto;
+        float: left;
+    }

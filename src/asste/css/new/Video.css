@@ -1,0 +1,45 @@
+    .Video-div{
+    width: 1280PX;
+    height: 1400PX;
+    }
+    .Video-div-headline-one{
+        width: 400px;
+        height:600px;
+        background-color: aliceblue;
+        float: left;
+        margin: 10px 0px 0px 20px;
+    }
+    .Video-div-headline-one-img{
+        width: 400px;
+        height: 400px;
+    }
+    .Video-div-headline-one-img img:hover{
+        transform: scale(0.98);
+    }
+    
+    .Video-div-headline-one-text{
+        text-align: center;
+    }
+    .Video-div-headline-one-text-top{
+        height: 80px;
+        margin: 20px 0px 0px 0px;
+    }
+    .Video-div-headline-one-text-top span{
+        font-size: 17px;
+        color:  rgb(105, 101, 104);
+    }
+    
+    .Video-div-headline-one-time-padding{
+        padding-left: 250px;
+    }
+    .Video-div-headline-one-time-span{
+        font-size: 16px;
+        color:  rgb(105, 101, 104);
+        padding-left: 20px;
+    }
+    .Video-div-VideoList-fy{
+        width: 1000px;
+        height: 50px;
+        margin: 20px 0px 0px 50px;
+        float: left;
+    }

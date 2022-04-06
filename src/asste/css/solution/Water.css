@@ -1,0 +1,107 @@
+.Water-div-top{
+    width: 100%;
+    height: 1200px;
+}
+.Water-div-top-h1{
+    width: 100%;
+    height: 60px;
+    text-align:center;
+    margin: auto;
+}
+.Water-div-top-gaishu{
+    width: 100%;
+    height: 180px;
+}
+
+.Water-div-top-gaishu-img{
+    width: 160px;
+    height: 90px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+
+}
+.Water-div-top-gaishu-p{
+    width: 1000px;
+    height: 150px;
+    font-size: larger;
+    text-indent:2em;
+    margin: 0px 0px 0px 50px;
+    float: left;
+}
+.Water-div-top-goucheng{
+    width: 100%;
+    height: 800px;
+}
+.Water-div-top-goucheng-img{
+    width: 150px;
+    height: 90px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+.Water-div-top-goucheng-r{
+    width: 1000px;
+    height: 800px;
+    float: left;
+    margin: 0px 0px 0px 30px;
+
+}
+.Water-div-top-goucheng-r-img{
+    width: 700PX;
+    height: 800PX;
+    margin: auto
+}
+.Water-div-top-goucheng-r-img-app{
+    width: 700px;
+    height: 800px;
+    margin: 0px 0px 0px 50px ;
+}
+.Water-div-top-tedian{
+     width: 100%;
+    height: 180px;
+}
+.Water-div-top-tedian-img{
+    width: 160px;
+    height: 90px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+.Water-div-top-tedian-p{
+    width: 1000px;
+    height: 150px;
+    font-size: larger;
+    margin: 0px 0px 0px 50px;
+    float: left;
+}
+
+.Water-div-top-tedian-p ul{
+    font-size: 15px;
+}
+.Water-div-top-anli{
+    width: 100%;
+   height: 200px;
+}
+.Water-div-top-anli-img{
+   width: 160px;
+   height: 90px;
+   float: left;
+   margin: 0px 0px 0px 10px;
+}
+.Water-div-top-anli-p{
+   width: 1000px;
+   height: 250px;
+   font-size: larger;
+   text-indent:2em;
+   margin: 0px 0px 0px 50px;
+   float: left;
+}
+.ant-divider-horizontal.ant-divider-with-text {
+    display: flex;
+    margin: 16px 0;
+    color: #606060;
+    font-weight: 500;
+    font-size: 28px;
+    white-space: nowrap;
+    text-align: center;
+    border-top: 0;
+    border-top-color: silver;
+}

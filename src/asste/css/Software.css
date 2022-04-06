@@ -1,0 +1,55 @@
+.Software-div{
+    width: 1280px;
+    height: 2000px;
+    margin: auto;
+}
+
+.Software-div-img{
+width: 1280px;
+height: 600px;
+margin: auto;
+}
+
+.Software-div-hender-span{
+    font-size: 30px;
+    color: rgb(53, 55, 59);
+    padding-left: 30px;
+}
+.Software-div-list{
+    width: 1200px;
+    height: 1000px;
+    margin: auto;
+}
+.Software-div-list-left{
+    width: 1200px;
+    height: 220px;
+    background-color: rgb(248, 248, 248);
+    margin: 10px 0px 0px 0px;
+}
+.Software-div-list-left-img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 20px;
+}
+.Software-div-list-left-text{
+    width: 800px;
+    height: 200px;
+    float: left;
+    margin: 20px 0px 0px 30px;
+}
+.Software-div-list-left-text-span{
+    font-size: 20px;
+    color: rgb(99, 102, 109);
+}
+.Software-div-list-span{
+   font-size: 20px;
+   color: rgb(99, 102, 109);
+    margin: 0px 0px 0px 650px;
+}
+.Software-div-list-fy{
+    width: 1000px;
+    height: 20px;
+    margin: 20px 0px 0px 50px;
+
+}

@@ -1,0 +1,81 @@
+.Certification-div{
+    width: 1280px;
+    height: 2500px;
+    background-color: rgb(248, 248, 248);
+    margin: auto;
+}
+.Certification-div-img{
+    width: 1280px;
+    height: 500px;
+
+}
+.Certification-div-list{
+    width:1280px ;
+    height: 1400px;
+}
+.Certification-div-list-all{
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    margin: 10px 0px 0px 25px;
+    float: left;
+}
+.Certification-div-list-all-img{
+    width: 550px;
+    height: 400px;
+    background-image: url("../images/Certification/border.png");
+    float: left;
+    padding-top: 20px;
+    margin-left: 25px;
+}
+.Certification-div-list-all-img img{
+    margin-top: 20px;
+}
+.Certification-div-list-all-text{
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+
+.Certification-div-hotList-fy{
+      width: 1280px;
+      height: 50px;
+     padding-left: 30px;
+}
+
+.bd {
+    width:1280px;
+    height: 500px;
+    margin:0 auto;
+    overflow: hidden;
+}
+
+.basefix:after{
+    clear: both;
+    content: '.';
+    display: block;
+    height: 0;
+    overflow: hidden;
+}
+
+.pro_list_recomm{ 
+    width: 426.6px;
+    height: 500px ;
+    float: left;
+    display:inline; 
+    text-align: center;
+    border:#F7F7F7 1px solid;
+    border-bottom-color:#D6D6D6;
+    }
+.pro_list_recomm:hover{ text-decoration:none; border:#cbcbcb 1px solid;box-shadow:1px 1px 4px #ccc}
+.pro_list_recomm img{ display:block; width:350px; height:450px; margin-left: 38.3px;}
+.pro_list_recomm h3,.pro_list_recomm .summary{ padding:0 10px; overflow:hidden;}
+.pro_list_recomm h3{ font:18px/24px microsoft yahei; margin:8px 0 5px 0; height:24px; overflow:hidden;}
+.arrow_l{ left:220px;}
+.arrow_r{ right:220px;}
+.arrow_l,.arrow_r{ position:absolute; margin-top:234px ; height:40px; width:40px; ; background-color:rgb(15, 15, 15); opacity:.3; transition:all 0.3s ease-in 0s; filter:alpha(opacity=30); 
+    background-image: url(//pic.c-ctrip.com/VacationOnlinePic/TicketHotel/un_sce_htl.png);
+    background-repeat: no-repeat;}
+.arrow_l:hover,.arrow_r:hover{ opacity:.8;filter:alpha(opacity=80); transition:all 0.8s ease-in 0s;}
+.arrow_l{ background-position:-158px -130px}
+.arrow_r{ background-position:-156px -240px}

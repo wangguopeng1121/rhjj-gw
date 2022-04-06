@@ -1,0 +1,128 @@
+.IndustryZone-div-top{
+    width: 100%;
+    height: 1200px;
+}
+.IndustryZone-div-top-h1{
+    width: 100%;
+    height: 60px;
+    text-align:center;
+    margin: auto;
+}
+
+
+.IndustryZone-div-top-top{
+    width: 100%;
+    height: 400px;
+
+}
+.IndustryZone-div-top-top-img{
+    width: 600px;
+    height: 400px;
+    margin: 0px 0px 0px 20px ;
+    float: left;
+}
+.IndustryZone-div-top-top-text{
+    width:600px ;
+    height: 400px;
+    margin: 0px 0px 0px 20px ;
+    float: left;
+    text-indent:2em;
+}
+
+
+.IndustryZone-div-top-gaishu{
+    width: 100%;
+    height: 180px;
+}
+
+.IndustryZone-div-top-gaishu-img{
+    width: 160px;
+    height: 90px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+
+}
+.IndustryZone-div-top-gaishu-p{
+    width: 1000px;
+    height: 150px;
+    font-size: larger;
+    text-indent:2em;
+    margin: 0px 0px 0px 50px;
+    float: left;
+}
+.IndustryZone-div-top-goucheng{
+    width: 100%;
+    height: 800px;
+}
+.IndustryZone-div-top-goucheng-img{
+    width: 150px;
+    height: 90px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+.IndustryZone-div-top-goucheng-r{
+    width: 1000px;
+    height: 800px;
+    float: left;
+    margin: 0px 0px 0px 30px;
+
+}
+.IndustryZone-div-top-goucheng-r-img{
+    width: 700PX;
+    height: 800PX;
+    margin: auto
+}
+.IndustryZone-div-top-goucheng-r-img-app{
+    width: 700px;
+    height: 800px;
+    margin: 0px 0px 0px 50px ;
+}
+.IndustryZone-div-top-tedian{
+     width: 100%;
+    height: 180px;
+}
+.IndustryZone-div-top-tedian-img{
+    width: 160px;
+    height: 90px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+.IndustryZone-div-top-tedian-p{
+    width: 1000px;
+    height: 150px;
+    font-size: larger;
+    text-indent:2em;
+    margin: 0px 0px 0px 50px;
+    float: left;
+}
+
+
+.IndustryZone-div-top-anli{
+    width: 100%;
+   height: 200px;
+}
+.IndustryZone-div-top-anli-img{
+   width: 160px;
+   height: 90px;
+   float: left;
+   margin: 0px 0px 0px 10px;
+}
+.IndustryZone-div-top-anli-p{
+   width: 1000px;
+   height: 250px;
+   font-size: larger;
+   text-indent:2em;
+   margin: 0px 0px 0px 50px;
+   float: left;
+}
+.ant-divider-horizontal.ant-divider-with-text {
+    display: flex;
+    margin: 16px 0;
+    color: #606060;
+    font-weight: 500;
+    font-size: 28px;
+    white-space: nowrap;
+    text-align: center;
+    border-top: 0;
+    border-top-color: silver;
+}
