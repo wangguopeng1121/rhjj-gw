@@ -16,7 +16,7 @@ class Foot extends Component {
                         </div>
                         <div  className="foot-div-z">
                             <div className="foot-div-z-info"> 
-                            <span className="foot-div-z-info-yw-span1">业务咨询</span><span className="foot-div-z-info-yw-span2"></span><span className="foot-div-z-info-yw-span3">  张经理：15302105587</span><br></br>
+                            <span className="foot-div-z-info-yw-span1">商务合作</span><span className="foot-div-z-info-yw-span2"></span><span className="foot-div-z-info-yw-span3">  张经理：15302105587</span><br></br>
                             <br></br>
                             <span className="foot-div-z-info-yw-span1">招聘咨询</span> <span className="foot-div-z-info-yw-span2"></span> <span className="foot-div-z-info-yw-span3"> 王女士：15320122587</span><br></br>
                             </div>  

@@ -21,7 +21,7 @@ class Consult extends Component {
             <div>
                 <div className="Consult-div">
                     <div className="Consult-div-hander">
-                    <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}  style={{fontSize:14}}  > 
+                    <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}  style={{fontSize:17}}  > 
                         <Menu.Item key="1" ><Link to="/consult">废气解决方案 </Link></Menu.Item>
                         <Menu.Item key="2"><Link to="/consult/water">废水解决方案</Link></Menu.Item>
                         <Menu.Item key="3"><Link to="/consult/wisdomGreen">智慧环保解决方案</Link></Menu.Item>

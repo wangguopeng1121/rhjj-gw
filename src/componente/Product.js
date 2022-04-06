@@ -17,7 +17,7 @@ class Product extends Component {
           <div>
             <div className="Product-div">
               <div className="Product-div-hander">
-                <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']} style={{ fontSize: 14 }}  >
+                <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']} style={{ fontSize: 17 }}  >
                   <Menu.Item key="1"><Link to="/product">环境空气设备</Link></Menu.Item>
                   <Menu.Item key="2"><Link to="/product/airY">气污染源设备</Link></Menu.Item>
                   <Menu.Item key="3"><Link to="/product/waterY">水环境设备</Link></Menu.Item>

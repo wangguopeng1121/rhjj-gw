@@ -72,7 +72,7 @@ class IndustryZone extends Component {
                             </div> 
                             <div  className="IndustryZone-div-top-anli-p">
                                 <br ></br> <br ></br>
-                                <p><ol><li></li></ol></p> 
+                                {/* <p><ol><li></li></ol></p>  */}
                             </div>
                     </div>
 

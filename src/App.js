@@ -13,7 +13,7 @@ function App() {
                 <title>天津仁和嘉境科技有限公司</title>
                 <Header className="header"  style={{  background: 'white' }}  > 
                 <div className="logo" ><img src={logo1} width="300px" height="60px"></img></div>
-                  <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}  style={{fontSize:14.5}}  > 
+                  <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}  style={{fontSize:20}}  > 
                     <Menu.Item key="1" ><Link to="/">首页 </Link></Menu.Item>
                     <Menu.Item key="2"><Link to="/consult">解决方案</Link></Menu.Item>
                     <Menu.Item key="3"><Link to="/product">产品中心</Link></Menu.Item>

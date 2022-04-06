@@ -42,5 +42,5 @@
 }
 /* 路由字体颜色 */
 .ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a, .ant-menu-dark .ant-menu-item > span > a{
- color: silver;
+ color: rgb(31, 30, 30);
 }
