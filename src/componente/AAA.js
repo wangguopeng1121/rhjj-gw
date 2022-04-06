@@ -6,7 +6,11 @@ class AAA extends Component {
     }
     render() {
         return (
-            <div className="sss"></div>
+            <div className="sss">
+
+                wshoshi niasda's asdasd as
+
+            </div>
         );
     }
 }
