@@ -74,9 +74,9 @@ class Air extends Component {
                             </div> 
                             <div  className="Air-div-top-anli-p">
                                 <br ></br> <br ></br>
-                                <p>
-                                XX市环境保护局大气环境网格化智慧监管系统采购项目（客户单位：XXX市环境保护局）
-                                </p> 
+                               <ol>
+                                 <li>天津市XX区大气环境网格化监测服务项目 </li>
+                               </ol>
                             </div>
                     </div>
                     </div>

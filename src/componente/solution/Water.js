@@ -24,9 +24,6 @@ class Water extends Component {
                                     <Button type="primary" ><a>Click  Me</a></Button>
                         </div>
                      </div>
-
-
-
                 <Divider  orientation="left">方案概述</Divider>
                 <div className="Water-div-top-gaishu" >
                        <div className="Water-div-top-gaishu-img">
@@ -73,7 +70,7 @@ class Water extends Component {
                        </div> 
                        <div  className="Water-div-top-anli-p">
                            <br ></br> <br ></br>
-                           <p><ol><li></li></ol></p> 
+                           <p><ol></ol></p> 
                        </div>
                </div>
                </div>

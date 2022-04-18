@@ -76,17 +76,12 @@ class Recruit extends Component {
                             renderItem={item => 
                                 (
                             <List.Item key={item.title}
-                                actions={[
-                                <IconText icon={StarOutlined} text="29" key="list-vertical-star-o" />,
-                                <IconText icon={LikeOutlined} text="156" key="list-vertical-like-o" />,
-                                <IconText icon={MessageOutlined} text="2" key="list-vertical-message" />,
-                                ]}
                                 extra={
                                 <img  width={400} alt="logo"  src={require("../asste/images/Recruit/a.png").default}/>
                                 }
                             >
                                 <List.Item.Meta  avatar={<Avatar src={item.avatar} />} 
-                                title={<span href={item.href}>{item.title}</span>}
+                                title={<span style={{fontSize:22}} href={item.href}>{item.title}</span>}
                                 description={item.description}
                                 />
                                 {item.duty}

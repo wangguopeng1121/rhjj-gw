@@ -45,7 +45,6 @@
   background-color: mintcream;
   overflow: hidden;
 }
-
 /* 简介css */
 /*   text-align: center 使图片线居中*/
 .home-left-account{
@@ -113,9 +112,6 @@
     float: left;
     margin:20px 0px 0px 60px;
   }
-  
- 
- 
   .home-right-main{
       width: 360px;
       height: 500px;
@@ -147,5 +143,6 @@ height: 50px;
 float: left;
 padding-left: 40px;
 background-color:  mintcream;
+
 
 }
